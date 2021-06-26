@@ -1,1 +1,1 @@
-# pin-scroll
+# Infinite Scroll
