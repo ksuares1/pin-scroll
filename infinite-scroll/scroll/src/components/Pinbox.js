@@ -2,10 +2,10 @@
 const Pinbox = () => {
     return (
         <div class="flex-container">
-        <div>1</div>
-        <div>2</div>
-        <div>3</div>
-        <div>4</div>
+        <div class="pinback">1</div>
+        <div class="pinback">2</div>
+        <div class="pinback">3</div>
+        <div class="pinback">4</div>
       </div>
     )
 }
