@@ -1,17 +1,13 @@
 import React from 'react';
-import { BrowserRouter as Router, Route } from "react-router-dom";
-import './App.css';
-import 'mdb-react-ui-kit/dist/css/mdb.min.css';
+// import { BrowserRouter as Router, Route } from "react-router-dom";
+// import './App.css';
+// import 'mdb-react-ui-kit/dist/css/mdb.min.css';
 
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        
-       
-       
-      </header>
+      <h1>Hello from React</h1>
     </div>
   );
 }
